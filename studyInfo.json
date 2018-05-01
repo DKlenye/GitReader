@@ -1,0 +1,1376 @@
+[
+  {
+    "StudyName": "origin/HEAD",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/24105",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/ACI_24-1801",
+    "Modules": [
+      "ACI_24_1801_DA",
+      "DataTransfer.Catalent"
+    ]
+  },
+  {
+    "StudyName": "origin/ACP-103-042",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ACP_103-034",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ACP_103-035",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ACP_103-038",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ACP_103-045",
+    "Modules": [
+      "ACP_103-045_DA",
+      "DataTransfer.ACP_103-045_Catalent",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/ACP_103-046",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Catalent",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/ADP-Subject_Number_System",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ADP_0011-008",
+    "Modules": [
+      "ADP_0011_008DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ADS_AMT-MS301",
+    "Modules": [
+      "ADS_AMT_MS301_DA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Fisher",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/ADXS_001-02",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/AEVI_001-ADHD-202",
+    "Modules": [
+      "AEVI_001_ADHD_202_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK-3831-401",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK3831-A104",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK3831-A307",
+    "Modules": [
+      "ALK_3831_A307_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_3831-A109",
+    "Modules": [
+      "ALK_3831_A109_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_3831-A109_DAExtensibilityPoint",
+    "Modules": [
+      "ALK_3831_A109_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_3831-A303",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_3831-A304",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_3831-A305",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_3831-A306",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_3831-A307",
+    "Modules": [
+      "ALK_3831_A307_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_3831-A308",
+    "Modules": [
+      "ALK_3831_A308_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_4230-A101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_5461-208EXT",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_5461-217",
+    "Modules": [
+      "ALK_5461_217_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_6428-A301",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_6428-A302",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_8700-A301",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_8700-A302",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-A105",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-A106",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-A306",
+    "Modules": [
+      "ALK_9072_A306_DA",
+      "ALK_9072_A306_EDC",
+      "ALK_9072_A306_ISS"
+    ]
+  },
+  {
+    "StudyName": "origin/ALK_9072-A351",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-A401",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-B101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-B102",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_9072-B103",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_Core",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/ALK_Template",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/AN-EPI3333",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/APD811-301",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/Acceleron_A011-09",
+    "Modules": [
+      "A011_09_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/AgeneBio_AGB101_MCD",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/Aimmune_ARC004",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Aimmune_ARC007",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Aimmune_ARC008",
+    "Modules": [
+      "Aimmune_ARC008_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Aimmune_ARC011",
+    "Modules": [
+      "Aimmune_ARC011_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Aimmune_ARTEMIS-ARC010",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Alnylam_AT3SC-003",
+    "Modules": [
+      "Alnylam_AT3SC_003_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Alnylam_AT3SC-004",
+    "Modules": [
+      "Alnylam_AT3SC_004_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Alnylam_AT3SC-009",
+    "Modules": [
+      "Alnylam_AT3SC_009_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Apellis_APL2-302",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Medrio",
+      "DataTransfer.Catalent"
+    ]
+  },
+  {
+    "StudyName": "origin/Arrowhead_Heparc-2008",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Axovant_RVT-101-3003",
+    "Modules": [
+      "Axovant_RVT_101_3003_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/BPI_2358-105",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/BPI_2358-106",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/BT_PULSE-PAH-007",
+    "Modules": [
+      "BT_PULSE_PAH_007_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/BT_PULSE-PHPF-001",
+    "Modules": [
+      "BT_PULSE_PHPF_001_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Biomarin_BMN-111-206",
+    "Modules": [
+      "Biomarin_BMN_111_206_DA",
+      "Custom.DataTransfer.ClinApps",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.ClinApps",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/Biomarin_BMN-270-203",
+    "Modules": [
+      "BioMarin_BMN_270_203_DA",
+      "DataTransfer.ClinApps",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/CC_90010-ST-001",
+    "Modules": [
+      "CelgenePRM"
+    ]
+  },
+  {
+    "StudyName": "origin/CC_90011-ST-001",
+    "Modules": [
+      "CelgenePRM"
+    ]
+  },
+  {
+    "StudyName": "origin/CC_DrugAccountability",
+    "Modules": [
+      "CelgenePRM"
+    ]
+  },
+  {
+    "StudyName": "origin/CLAR_15012",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/CLAR_15012V2",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/CNV_1014802-205",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/CORT125281_601",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Catalent",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/CO_338-052",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/CO_338-063",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/CO_338-085",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/CO_338-087",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Almac",
+      "DataTransfer.FMI",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/CP_NVK002-0001",
+    "Modules": [
+      "CP_NVK002_0001_DA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/CSL112-3001",
+    "Modules": [
+      "CSL112_3001_DA",
+      "DataTransfer.CSL112_3001_Almac",
+      "DataTransfer.CSL112_3001_Rave",
+      "DataTransfer.CSL112_3001_SiteMilestone",
+      "DataTransfer.CSL112_3001_SycamoreDA",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/CSL_842_3001",
+    "Modules": [
+      "CSL_842_3001_DA",
+      "DataTransfer.CSL_842_3001_SycamoreSCr",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/CSL_IgPro20_1001",
+    "Modules": [
+      "CSL_IgPro20_1001_DA",
+      "DataTransfer.Almac"
+    ]
+  },
+  {
+    "StudyName": "origin/Calithera_INCB-01158-101",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent"
+    ]
+  },
+  {
+    "StudyName": "origin/Cara_CR845-210301",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/Cerecor_Clin301-202",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Cerecor_Clin301-203",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Corbus_JBT101-CF-002",
+    "Modules": [
+      "Corbus_JBT101_CF_002_DA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Catalent",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/Corbus_JBT101-SSc-002",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Catalent",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/Curis_CA-170-101",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/Curis_CA-4948-101",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/DCC_2618-01-001",
+    "Modules": [
+      "DCC_2618_01_001_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/DCC_2618-03-001",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/DIV-SCLC-301",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/DSI_DU176b-C-U313",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Fisher",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp",
+      "DSI_DU176b_C_U313_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/DSI_DU176b-C-U313_DA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Dova_AVA-CIT-330",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Almac",
+      "Suvoda.IRT.Domain",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/EIP-VX17-745-304",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/EN_3835-203",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Forty_Seven_5F9006",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Fisher",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp",
+      "Forty_Seven_5F9006_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/GEM_301",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/GEM_401",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/GE_012-106",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_01158-202",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_01158-203",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_18424-102",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_18424-204",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_18424-205",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_18424-206",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_18424-211",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_18424-269",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_18424-271",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_18424-272",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_1876-101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_1876-201",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_1876-202",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore",
+      "DataTransfer.Inform"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_1949-101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_1949-201",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore",
+      "DataTransfer.Inform"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_1949-202",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore",
+      "DataTransfer.Inform"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_24360-204",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_24360-205",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_24360-206",
+    "Modules": [
+      "DataTransfer.ICore",
+      "INCB_24360_206_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_24360-207",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_24360-208",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore",
+      "DataTransfer.InForm",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_39110-106",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_39110-107",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_39110-108",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_39110-118",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore",
+      "DataTransfer.InForm",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_39110-119",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore",
+      "DataTransfer.InForm",
+      "DataTransfer.Sftp"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_39110-206",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_39110-207",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_39110-209",
+    "Modules": [
+      "INCB_39110_209_DA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_39110-301",
+    "Modules": [
+      "DataTransfer.ICore",
+      "DataTransfer.Inform",
+      "INCB_39110_301_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_40093-201",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_50465-102",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_50465-111",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_50465-112",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_50465-201",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_50465-202",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_50465-203",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore",
+      "DataTransfer.Inform"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_50465-204",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_50465-205",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_53914-101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_53914-201",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_54828-102",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_54828-201",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_54828-202",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_54828-203",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_57643-101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_59872-101",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_59872-101_Debug",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/INCB_59872-102",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_60003-101",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_62079-101",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCB_62079-101_ICorePlugin",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.ICore"
+    ]
+  },
+  {
+    "StudyName": "origin/INCMGA_0012-101",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/INS_004-17-110",
+    "Modules": [
+      "DataTransfer.IBM"
+    ]
+  },
+  {
+    "StudyName": "origin/IP_C3718-301",
+    "Modules": [
+      "IP_C3718_301_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/IP_MCP-103-312",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Almac",
+      "DataTransfer.Rave",
+      "IP_MCP_103_312_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/IRT_Demo_Oncology",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Idera_2125-Mel-301",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp",
+      "Idera_2125-MEL-301_MedPace",
+      "Idera_2125_Mel_301_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Inotek_IPC-01-2015",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Inotek_IPC-02-2015",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Intercept_747-117",
+    "Modules": [
+      "DataTransfer.Trium",
+      "Intercept_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Intercept_747-401",
+    "Modules": [
+      "DataTransfer.Trium",
+      "Intercept_747_401_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Iterum_IT001-301",
+    "Modules": [
+      "DataTransfer.Almac",
+      "Iterum_IT001_301_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Iterum_IT001-302",
+    "Modules": [
+      "DataTransfer.Almac",
+      "Iterum_IT001_302_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/KF6010-02",
+    "Modules": [
+      "KF6010_02_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/KHK_2455-001",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/LB_RIN-PH-304",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave",
+      "LB_RIN_PH_304_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/LaJolla_LJ501-CRH04",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Luitpold_1STS12001",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Luitpold_1VIT14037",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Luitpold_1VIT14039",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Luitpold_1VIT15042",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Luitpold_1VIT17044",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/MDV3800-07",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/MDV3800-08",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/MDV3800-09",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/MDV3800-11",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/MDV3800-13",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/MRS_TU-2019",
+    "Modules": [
+      "MRS_TU_2019_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/MT_2-01",
+    "Modules": [
+      "MT_201_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/MYK-461-005",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave",
+      "MYK_461_005_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/MYK-461-006",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave",
+      "MYK_461_006_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/MYK-461-008",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave",
+      "MYK_461_008_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Medivation_MDV3800-06",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Medivir_BPT-201",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/NewLink_NLG-2107",
+    "Modules": [
+      "NewLink_NLG_2017_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/OPDC_156-12-298",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Onyx_CFZ013",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/Onyx_CFZ014",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1128-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1136-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1137-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1138-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1139-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1142-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PCYC_1143-CA",
+    "Modules": [
+      "PCYC_1143_CA_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/PCYC_1145-LT",
+    "Modules": [
+      "CoreDA",
+      "Kendo.Mvc",
+      "Suvoda.IRT.Domain"
+    ]
+  },
+  {
+    "StudyName": "origin/PCYC_2401-CA",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PFB_W00101-IV-1-01",
+    "Modules": [
+      "Pierre_Fabre_W00101_IV_01_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/PTC124-GD-041-DMD",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/PTK_0796-ABSI-1108",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PTK_0796-ABSI-16301",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PTK_0796-CABP-1200",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/PTK_0796-UUTI-17201",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Almac",
+      "DataTransfer.Rave",
+      "PTK0796_UUTI_17201_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/PierreFabre_W00101-IV-1-01",
+    "Modules": [
+      "Pierre_Fabre_W00101_IV_01_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/REC-15-017",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/RT_01-HF-REF",
+    "Modules": [
+      "DataTransfer.Almac",
+      "DataTransfer.IBM",
+      "RT_01_HF_REF_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/RVT_901-3003-3004",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave",
+      "RVT_901_3003_3004_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Recardio_REC-DUT-002",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent"
+    ]
+  },
+  {
+    "StudyName": "origin/Revance_1720302",
+    "Modules": [
+      "DataTransfer.Fisher",
+      "DataTransfer.Sftp",
+      "Revance_1720302_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/SB_2-004-005",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/SB_2-010-001",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/SB_2-010-002",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/SEQ_V118_20",
+    "Modules": [
+      "DataTransfer.Rave",
+      "SEQ_V118_20_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/SIGA_246-008",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/SOBI_003-001",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Almac"
+    ]
+  },
+  {
+    "StudyName": "origin/STML_801-0115",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/SUN_131-03",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/Semnur_SP-102-02",
+    "Modules": [
+      "DataTransfer.IBM",
+      "SMN_SP_102_02_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Seqirus_V118_20",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/Sutro_STRO-001-BCM1",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/TAS_0728-101",
+    "Modules": [
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Fisher",
+      "DataTransfer.Rave",
+      "DataTransfer.Sftp",
+      "TAS_0728_101_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/TAS_116-10058010",
+    "Modules": [
+      "TaihoDA"
+    ]
+  },
+  {
+    "StudyName": "origin/TAS_3681-101",
+    "Modules": [
+      "TAS_3681_101_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/TDE_PH-313",
+    "Modules": [
+      "TDE_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/TDE_SC-301",
+    "Modules": [
+      "TDE_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/TRV_CP130-2002",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/TRV_CP130-3001",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/TRV_CP130-3002",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/VB_111-701",
+    "Modules": [
+      "CoreDA",
+      "Custom.DataTransfer.Rave",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/VL2397-201",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/Vertex_VX16-150-102",
+    "Modules": [
+      "DataTransfer.Fisher",
+      "DataTransfer.InForm",
+      "DataTransfer.Sftp",
+      "DataTransfer.VertexCore",
+      "Vertex_VX16_150_102_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/Vertex_VX16-809-122",
+    "Modules": [
+      "DataTransfer.Fisher",
+      "DataTransfer.Sftp",
+      "DataTransfer.VertexCore",
+      "Vertex_VX16_809_122_DA"
+    ]
+  },
+  {
+    "StudyName": "origin/WVE_DMDX51-001",
+    "Modules": [
+      "CoreDA",
+      "DataTransfer.Catalent",
+      "DataTransfer.Rave"
+    ]
+  },
+  {
+    "StudyName": "origin/WVE_HDSNP1-001",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/WVE_HDSNP2-001",
+    "Modules": [
+      "CoreDA"
+    ]
+  },
+  {
+    "StudyName": "origin/XOMA_X052133",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/XOMA_X052172",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/XOMA_X052173",
+    "Modules": []
+  },
+  {
+    "StudyName": "origin/master",
+    "Modules": []
+  }
+]
